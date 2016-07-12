@@ -1,0 +1,22 @@
+{
+  "name": "react-staterkit-api",
+  "version": "1.0.0",
+  "description": "React Starterkit Api kunyare",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "June Domingo",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.12.0",
+    "colors": "^1.1.2",
+    "express": "^4.14.0",
+    "faker": "^3.1.0",
+    "json-server": "^0.8.15"
+  },
+  "dependencies": {
+    "cors": "^2.7.1"
+  }
+}
