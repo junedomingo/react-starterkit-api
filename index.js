@@ -17,6 +17,6 @@ app.listen(port, function(err) {
 	if (err) {
 		console.log(err);
 	} else {
-		console.log('API is now running'.yellow);
+		console.log('API is now running | http://localost:3006'.yellow);
 	}
 });
